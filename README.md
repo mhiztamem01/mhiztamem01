@@ -28,3 +28,20 @@ Hi, I'm mhiztamem. am just out here adding a table of languages i want to learn.
 |     1| Javascript|
 |     2| Python    |
 |     3| SQL       |
+
+## Click it!
+
+<details>
+<summary>My best food</summary>
+
+rice
+  
+</details>
+
+## Out here adding a quote
+
+```
+> i love rice
+- mhiztamem. use backticks
+
+<!-- adding a comment to my README --!>
