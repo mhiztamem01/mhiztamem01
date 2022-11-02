@@ -43,5 +43,3 @@ rice
 ```
 > i love rice
 - mhiztamem. use backticks
-
-<!-- adding a comment to my README --!>
